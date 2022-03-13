@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.image{
+    background-image:url('t1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: rgba(165, 42, 42, 0.37);
+}
+c
